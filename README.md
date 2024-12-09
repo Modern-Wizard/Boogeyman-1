@@ -1,5 +1,5 @@
 # Boogeyman-1
-we will be tasked to analyse the Tactics, Techniques, and Procedures (TTPs) executed by a threat group, from obtaining initial access until achieving its objective.
+We will be tasked to analyse the Tactics, Techniques, and Procedures (TTPs) executed by a threat group, from obtaining initial access until achieving its objective.
 
 ## <a href="https://github.com/Modern-Wizard/Tempest">1.[Introduction] New threat in town. </a>
 ## <a href="https://github.com/Modern-Wizard/Tempest">2.[Email Analysis] Look at that headers! </a>
